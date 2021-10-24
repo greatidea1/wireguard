@@ -1,0 +1,9 @@
+Wireguard 
+Helping URL
+
+https://www.youtube.com/watch?v=bVKNSf1p1d0
+https://www.the-digital-life.com/wireguard-installation-and-configuration/
+https://www.youtube.com/watch?v=rtUl7BfCNMY
+https://tech.serhatteker.com/post/2021-01/how-to-set-up-wireguard-client-on-android/
+https://serversideup.net/generating-wireguard-qr-codes-for-fast-mobile-deployments/
+https://www.reddit.com/r/WireGuard/comments/bkt4wl/connected_but_no_internet/
